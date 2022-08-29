@@ -1,0 +1,16 @@
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\bin\Debug\net5.0\Les3OOPHW.exe
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\bin\Debug\net5.0\Les3OOPHW.deps.json
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\bin\Debug\net5.0\Les3OOPHW.runtimeconfig.json
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\bin\Debug\net5.0\Les3OOPHW.runtimeconfig.dev.json
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\bin\Debug\net5.0\Les3OOPHW.dll
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\bin\Debug\net5.0\Les3OOPHW.pdb
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\obj\Debug\net5.0\Les3OOPHW.csproj.AssemblyReference.cache
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\obj\Debug\net5.0\Les3OOPHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\obj\Debug\net5.0\Les3OOPHW.AssemblyInfoInputs.cache
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\obj\Debug\net5.0\Les3OOPHW.AssemblyInfo.cs
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\obj\Debug\net5.0\Les3OOPHW.csproj.CoreCompileInputs.cache
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\obj\Debug\net5.0\Les3OOPHW.dll
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\obj\Debug\net5.0\refint\Les3OOPHW.dll
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\obj\Debug\net5.0\Les3OOPHW.pdb
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\obj\Debug\net5.0\Les3OOPHW.genruntimeconfig.cache
+C:\Users\StarLaptop\source\repos\Les3OOPHW\Les3OOPHW\obj\Debug\net5.0\ref\Les3OOPHW.dll
